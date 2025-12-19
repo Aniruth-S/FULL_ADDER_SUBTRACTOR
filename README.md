@@ -44,7 +44,9 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:25017728
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
+Developed by:Aniruth.S
+RegisterNumber:25017728
 */
 
 **Program: Full Adder
@@ -77,27 +79,27 @@ endmodule
 ```
 **RTL Schematic**
 full adder
-<img width="1038" height="562" alt="Screenshot 2025-12-06 135641" src="https://github.com/user-attachments/assets/b7628306-73ab-413c-9f32-917c6827c8df" />
+<img width="732" height="395" alt="{24C66D4B-BD39-4D10-8F8B-38FC01CE6760}" src="https://github.com/user-attachments/assets/00670799-2a92-494e-b09e-68c08b166241" />
+
 
 full subtractor
-<img width="1038" height="452" alt="Screenshot 2025-12-06 135944" src="https://github.com/user-attachments/assets/acfdcc60-1a88-48f3-8dcd-20756f6cd333" />
+<img width="768" height="363" alt="{51A7129F-7AE1-4343-8D06-B4DB814AF062}" src="https://github.com/user-attachments/assets/daa03baf-cb7b-4a77-bc54-508f6fd3985a" />
 
 
 **Output Timing Waveform**
 full adder
-<img width="1051" height="191" alt="Screenshot 2025-12-06 140038" src="https://github.com/user-attachments/assets/43ad166d-527b-4b2b-86d7-c8623702f3e8" />
+<img width="1053" height="204" alt="image" src="https://github.com/user-attachments/assets/15a04bfb-1773-4805-b974-dee4e7b5adaf" />
+
 
 full subtracter
-<img width="1047" height="166" alt="Screenshot 2025-12-06 140129" src="https://github.com/user-attachments/assets/c3e35597-de25-4599-8089-3b466cd33bde" />
+<img width="1044" height="206" alt="{2EB72783-FED3-4EAF-968F-024DB1184E91}" src="https://github.com/user-attachments/assets/485b31cb-196f-4c0b-b693-33f930b35d4c" />
+
 
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 .................................... ............................................ ....................... .............. ............................................ ........................ ................................................................................................................................................ ................. ...................... ..........................................................
-
-.......................... ......................................
-
-. ..... . . .... . . . . . . . . . . . . . . . . . ..... . . . . . . . . . . . . .. . . . . . . . . . . .. . . . ..... . . . . . . . ...... . . . . . .... . . . .... . . . ... . .. . . . . . . . . . . .... .. .. .. . . . . . . . . . .... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ .. . . . . . . . . . .... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .. . . . . . . . . . . . . . . . . . . . . . .
 
