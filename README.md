@@ -78,20 +78,26 @@ module full_subtractor (
 endmodule
 ```
 **RTL Schematic**
+
 full adder
+
 <img width="732" height="395" alt="{24C66D4B-BD39-4D10-8F8B-38FC01CE6760}" src="https://github.com/user-attachments/assets/00670799-2a92-494e-b09e-68c08b166241" />
 
 
 full subtractor
+
 <img width="768" height="363" alt="{51A7129F-7AE1-4343-8D06-B4DB814AF062}" src="https://github.com/user-attachments/assets/daa03baf-cb7b-4a77-bc54-508f6fd3985a" />
 
 
 **Output Timing Waveform**
+
 full adder
+
 <img width="1053" height="204" alt="image" src="https://github.com/user-attachments/assets/15a04bfb-1773-4805-b974-dee4e7b5adaf" />
 
 
 full subtracter
+
 <img width="1044" height="206" alt="{2EB72783-FED3-4EAF-968F-024DB1184E91}" src="https://github.com/user-attachments/assets/485b31cb-196f-4c0b-b693-33f930b35d4c" />
 
 
